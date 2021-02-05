@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "HJ"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+locale                   : "en" # used to declare the primary language for each web page within the site.
+title                    : "HJ" # nothing fancy
+title_separator          : "|" # better than dashes 
+subtitle                 : # site tagline that appears below site title in masthead (doesnt need to be completed)
 name                     : "Hendrik Joosten"
-description              : "An amazing website."
-url                      : "hendrikjoosten.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "The majority of my online presence."
+url                      : "https://hendrikjoosten.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog" (dont mess with this)
 repository               : "hendrikjoosten/hendrikjoosten.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Hendrik Joosten"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Design | Entrepreneurship | Engineering "
+  bio              : # for blog posts
   location         : "Berlin"
-  email            :
+  email            : "hello@hendrikjoosten.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,24 +121,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://github.com/hendrikjoosten"
 
 
 # Reading Files
