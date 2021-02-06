@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Hendrik Joosten
+  site_tagline: Thoughts and Works
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -58,16 +58,16 @@ social_settings:
 
 color_settings:
   background_color: '#ffffff'
-  background_alt_color: '#F5F7FA'
+  background_alt_color: '#88DDDD'
   text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
+  text_medium_color: '#222222'
   text_light_color: '#ABB7B7'
   accent_color: '#0C5DF2'
-  border_color: '#dddddd'
+  border_color: '#88DDDD'
   overlay_background_color: '#0C5DF2'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
-  error_color: '#D64541'
+  error_color: '#88DDDD'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
