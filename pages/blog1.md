@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why Data Engineering Matters"
 date: 2025-07-16
 ---

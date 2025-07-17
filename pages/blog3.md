@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Future of Data Platforms"
 date: 2025-07-16
 ---
