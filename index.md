@@ -1,16 +1,21 @@
-# Hi, I’m Hendrik 👋✨
+Hi, I’m Hendrik 👋✨  
+I’m based in Berlin 🇩🇪 and I help startups and teams build scalable data-driven systems.
 
-I’m a data engineer and developer based in Berlin 🇩🇪.  
-I work with **Python 🐍, Django 🦄, Data Pipelines 🚀, and AI/ML 🤖**.
+I work with **Python**, **Django**, **Data Pipelines**, and **AI/ML**.
 
-I help build 🏗️
+### What I do
 
-- Scalable backend systems 🏢
-- Data platforms & forecasting tools 📊🔮
-- APIs & web apps 🌐
+- Build scalable backend systems 🏗️
+- Design data platforms & forecasting tools 📊
+- Develop APIs & web apps 🌐
 
 ---
 
-💼 [LinkedIn](https://www.linkedin.com/in/hendrikjoosten)  
-💻 [GitHub](https://github.com/hendrikjoosten)  
-🌱 Always learning & building!
+### Let’s work together
+
+💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+💻 [GitHub](https://github.com/yourusername)
+
+---
+
+🌱 Always learning & building.
