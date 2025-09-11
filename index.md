@@ -1,15 +1,26 @@
 Hi, I’m Hendrik 👋✨  
-I’m based in Berlin 🇩🇪 and I help startups and teams build scalable data-driven systems.
+I’m based in Berlin 🇩🇪 and I help startups engineer and run their data stuff.
 
 I work with **Python**, **Django**, **Data Pipelines**, and **AI/ML**.
 
 ### What I do
 
-- Build scalable backend systems 🏗️
-- Design data platforms & forecasting tools 📊
-- Develop APIs & web apps 🌐
+- Make the Backend
+- Build Data Pipelines
+- Fill the Database
+- Vibe code some machine learning models
+- make some dashboards
+- Sport
 
 ---
+
+### Projects
+
+[openeng.xyz](https://www.openeng.xyz)
+where i share some of my tech projects and experiments
+
+[friendswemade.com](https://friendswemade.com)
+a record label ive been "starting" since forever
 
 ### Let’s work together
 
