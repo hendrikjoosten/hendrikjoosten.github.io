@@ -24,8 +24,10 @@ a record label ive been "starting" since forever
 
 ### Let’s work together
 
-💼 [LinkedIn](https://www.linkedin.com/in/hendrikjoosten)  
+💼 [LinkedIn](https://www.linkedin.com/in/hendrikjoosten)
+
 💻 [GitHub](https://github.com/hendrikjoosten)
+
 📧 [Email](mailto:hello@hendrikjoosten.com)
 
 ---
