@@ -15,6 +15,7 @@ I work with **Python**, **Django**, **Data Pipelines**, and **AI/ML**.
 
 💼 [LinkedIn](https://www.linkedin.com/in/hendrikjoosten)  
 💻 [GitHub](https://github.com/hendrikjoosten)
+📧 [Email](mailto:hello@hendrikjoosten.com)
 
 ---
 
