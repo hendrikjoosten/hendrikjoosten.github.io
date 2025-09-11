@@ -13,8 +13,8 @@ I work with **Python**, **Django**, **Data Pipelines**, and **AI/ML**.
 
 ### Let’s work together
 
-💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-💻 [GitHub](https://github.com/yourusername)
+💼 [LinkedIn](https://www.linkedin.com/in/hendrikjoosten)  
+💻 [GitHub](https://github.com/hendrikjoosten)
 
 ---
 
