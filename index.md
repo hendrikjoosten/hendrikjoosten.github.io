@@ -1,13 +1,13 @@
 Hi, I’m Hendrik 👋✨  
 based in Berlin 🇩🇪 
 I engineer and run data stuff.
-I work with **Python**, **Django**, **Data Pipelines** and **Data Ops**
+I work with **Python**, **Django**, **Data Pipelines** and **Data Ops** daily
 
 ### What I do
 - Make the Backend
 - Build Data Pipelines
 - Fill the Database
-- Sport
+- Run it all 
 
 ---
 
