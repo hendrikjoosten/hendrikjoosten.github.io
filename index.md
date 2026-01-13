@@ -25,8 +25,6 @@ a record label ive been "starting" since forever
 
 💻 [GitHub](https://github.com/hendrikjoosten)
 
-📧 [Email](mailto:hello@hendrikjoosten.com)
-
 ---
 
 🌱 Always learning & building.
